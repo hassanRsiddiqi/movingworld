@@ -70,7 +70,7 @@ body {
 }
 
 .bids_btn_box .bids_btn.bids_btn_input {
-  /* background-image: url("../public/images/input_box.png"); */
+  background-image: url("/images/input_box.png");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 8px 15px;
@@ -98,11 +98,11 @@ body {
 }
 
 .bids_btn_box .bids_btn.bids_btn_btn.active {
-  /* background-image: url("../public/images/button_blue.png"); */
+  background-image: url("../public/images/button_blue.png");
 }
 
 .bids_btn_box .bids_btn.bids_btn_btn.disable {
-  /* background-image: url("../public/images/button.png"); */
+  background-image: url("../public/images/button.png");
 }
 
 .bids_btn_box .bids_btn.bids_btn_btn.hidden {
